@@ -1,4 +1,4 @@
-const submissionQueue=require("../queues/SampleQueue");
+const submissionQueue=require("../queues/submissionQueue");
 
 module.exports= async function(payload)
 {
